@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ruleset name="jeanmarcos_ruleset">
+    <description>PSR12 base and adds</description>
+    <!-- Incluye PSR-12 como base -->
+    <rule ref="PSR12"/>
+</ruleset>
